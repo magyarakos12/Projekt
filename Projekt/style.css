@@ -1,0 +1,172 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+  }
+
+
+
+
+
+body{
+    
+    background-color: #F4D03F;
+    background-image: linear-gradient(132deg, #F4D03F 0%, #16A085 50%, #ffffff 100%);
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+   
+
+
+
+
+}
+
+html{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.konyv{
+    top: 110px;
+    position: absolute;
+    z-index: -1;
+    left: 550px;
+    
+    
+
+}
+
+.kep1{
+    height: 750px;
+    width: 750px;
+}
+
+.kep2{
+    top: 100px;
+    left: 100px;
+    position: absolute;
+    border-style:solid;
+    border-color: #85FFBD;
+    border-radius: 100px;
+    height: 400px;
+
+
+}
+
+.kep3{
+    top: 100px;
+    left: 1470px;
+    position: absolute;
+    border-style:solid;
+    border-color:#85FFBD;
+    border-radius: 100px;
+    height: 400px;
+
+
+}
+
+.kep4{
+    top: 360px;
+    left: 80px;
+    position: absolute;
+    height: 400px;
+
+}
+
+.kep5{
+    top: 360px;
+    left: 1450px;
+    position: absolute;
+    height: 400px;
+    width: 360px;
+    
+
+
+
+}
+
+
+.belepes{
+    margin-left: 10px;
+    margin-top: 400px;
+   font-size: 30px;
+   text-align: center;
+}
+
+
+.button-28 {
+  appearance: none;
+  background-color: transparent;
+  border: 2px solid #e5b57f;
+  border-radius: 15px;
+  box-sizing: border-box;
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Roobert,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: normal;
+  margin: 0;
+  outline: none;
+  padding: 16px 24px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 100%;
+  will-change: transform;
+  max-width:220px ;
+  height: 5px;
+  margin-top: 50px;
+  padding-bottom: 14px;
+}
+
+.button-28:disabled {
+  pointer-events: none;
+}
+
+.button-28:hover {
+  color: #fff;
+  background-color: #e5b57f;
+  box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+  transform: translateY(-2px);
+}
+
+.button-28:active {
+  box-shadow: none;
+  transform: translateY(0);
+}
+
+.feljelsz1{
+    color: #e5b57f;
+    top: 7px;
+    position: relative;
+    
+
+}
+
+.feljelsz2{
+    color: #e5b57f;
+    top: 7px;
+    position: relative;
+
+}
+
+.igazitas{
+    margin-top: -15px;
+    font-family:'Bebas Neue', cursive;
+    font-size: 24px;
+}
+#username, #jelszo{
+    padding-top:6px;
+    font-size: 20px;
+    border-style:solid;
+    border-color: black;
+    background-color: #e5b57f;
+    border-radius: 10% / 50%;
+    
+}
